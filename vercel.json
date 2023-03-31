@@ -7,7 +7,7 @@
   },
   "scripts": {
     "init": "npm install",
-    "start": "node index.js",
-    "build": "node index.js --build"
+    "start": "node .",
+    "build": "node . --build"
   }
 }
